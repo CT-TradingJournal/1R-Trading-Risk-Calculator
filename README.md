@@ -27,4 +27,4 @@ By automating this mathematical process, I achieved:
 This project demonstrates my ability to identify a real-world operational bottleneck, write programmatic logic to solve it, and deploy an automated tool that strictly enforces business rules.
 
 ---
-*Created by [Your Name / CT-TradingJournal] - Continuously building automated tools for disciplined execution.*
+*Created by [CT-TradingJournal] - Continuously building automated tools for disciplined execution.*
